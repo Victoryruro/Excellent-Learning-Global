@@ -1149,8 +1149,8 @@ section.our-courses {
   padding: 25px;
 }
 
-.our-courses .item .down-content .info ul li {
-  display: inline-block;
+.our-courses .item .down-content .info p {
+  display: block;
   margin-right: 1px;
 }
 
@@ -1160,12 +1160,12 @@ section.our-courses {
 }
 
 .our-courses .item .down-content .info span {
-  color: #a12c2f;
-  font-size: 15px;
+  color: #6c63ff;
+  font-size: 10px;
   font-weight: 600;
-  text-align: right;
+  text-align: center;
   display: inline-block;
-  width: 100%;
+  
 }
 
 .our-courses .owl-nav {
