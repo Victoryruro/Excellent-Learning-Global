@@ -1152,6 +1152,9 @@ section.our-courses {
 .our-courses .item .down-content .info p {
   display: block;
   margin-right: 1px;
+  font-size: 18px;
+  color: #1e1e1e;
+  font-weight: 600;
 }
 
 .our-courses .item .down-content .info ul li i {
